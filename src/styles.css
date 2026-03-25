@@ -1,12 +1,2 @@
 @import "@diligentcorp/atlas-react-bundle/styles";
 @import "@diligentcorp/atlas-react-bundle/global-nav.css";
-
-/* Screen-reader-only utility — all other styling lives in sx props with Atlas design tokens */
-.sr-only {
-  position: absolute;
-  left: -10000px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
